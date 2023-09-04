@@ -1,2 +1,2 @@
 # Desafio_dio_Github_1_repositorio
-Desafio de projeto sobre Github
+Repositório criado para o desafio de projeto sobre Github
